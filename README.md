@@ -1,14 +1,15 @@
-# learned through EDX bootcamp
+# Prework Study Guide Webpage
 
-## intro course
-using github  - create repository
-creating javacript functions
-css styling 
-html basics
+## Description
 
-### project
-creating an interactive website for study guide
+Created an interactive webpage learned through EDX bootcamp prework - namely: HTML basics, CSS styling, creating Javascript fundtions, ang using Github.
 
-#### license
+
+## Usage
+
+Used to review notes in each section
+
+## License
+
 MIT licence
 
